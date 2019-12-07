@@ -2,7 +2,7 @@
 In Statistics and Control Theory, Kalman Filtering is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more accurate than those based in a single measurement alone, by estimating a joint probability distribution over the variables for each timeframe.
 
 ## Objective
-The objective of this project is to address the problem if carrier synchronization in on-board processing (OBP) satellite digital receivers. Carrier Synchronization is the problem of resolving the undesired phase in the baseband, so that the in-phase and quadrature components can be properly recovered. Through the Kalman Filter, both the carrier phase and carrier frequency can be jointly estimated.
+The objective of this project is to address the problem of carrier synchronization in on-board processing (OBP) satellite digital receivers. Carrier Synchronization is the problem of resolving the undesired phase in the baseband, so that the in-phase and quadrature components can be properly recovered. Through the Kalman Filter, both the carrier phase and carrier frequency can be jointly estimated.
 
 
 ## Project Description
